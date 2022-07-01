@@ -1,0 +1,7 @@
+{
+	"user": "neetoons",
+	"repo": "samp-g_cars",
+	"tag": "0.0.1",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx"
+}
